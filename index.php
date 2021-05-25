@@ -40,7 +40,7 @@ if(isset($_POST['city'])){
 
 <body >
    
-        <!-- Sunny Day Video -->
+        <!-- Weather Video -->
      <video autoplay muted loop class="video">
         <source src=<?php echo $weather ?> type="video/mp4">
     </video>
